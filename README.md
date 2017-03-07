@@ -1,2 +1,2 @@
 # creeper
-A small tool to get some data on internet~!!!
+A small tool, for get some data from the Internet~!!!
